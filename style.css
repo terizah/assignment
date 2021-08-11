@@ -1,8 +1,18 @@
+.logo {
+    text-indent: -999999px;
+    background: url('logo.png');
+    width: 100px;
+    height: 100px;
+}
 
-footer{
+.footer{
   border-top: 3px solid black;
   background-color: transparent;
 }
-</body>
-</style>
-</head>
+
+.pizza {
+    text-indent: -999999px;
+    background: url('pizza.jpg');
+    width: 640px;
+    height: 480px;
+}
