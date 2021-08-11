@@ -15,7 +15,10 @@
     background: url('pizza.jpg');
     width: 640px;
     height: 480px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 
 .table {
   width:100%;
@@ -47,6 +50,7 @@ th, td {
   border: none;
   cursor: pointer;
 }
+
 
 .dropdown {
   position: relative;
