@@ -29,10 +29,24 @@
 	<p>Please fill the form below accurately to enable for use to serve you better!</p>
 	
 <form> 
-	<label for="fname">First name:</label><br>
-	<input type=text" id="fname" name="fname"
-	<label for="lname">Last name:</label><br>
-        <input type="text" id="lname" name="lname">
+	<div class="container">
+  <form action="/action_page.php">
+  <div class="row">
+    <div class="col-25">
+      <label for="fname">First Name</label>
+    </div>
+    <div class="col-75">
+      <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-25">
+      <label for="lname">Last Name</label>
+    </div>
+    <div class="col-75">
+      <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    </div>
+  </div>
 </form>
 
 </body>
