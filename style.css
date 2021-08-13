@@ -19,6 +19,32 @@
     margin-right: auto;
 }
 
+.p {
+    text-indent: -999999px;
+    background: url('pizza.jpg');
+    width: 640px;
+    height: 480px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pm {
+    text-indent: -999999px;
+    background: url('pizza.jpg');
+    width: 640px;
+    height: 480px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pz {
+    text-indent: -999999px;
+    background: url('pizza.jpg');
+    width: 640px;
+    height: 480px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .table {
   width:100%;
