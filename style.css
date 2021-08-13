@@ -1,49 +1,7 @@
-.logo {
-    text-indent: -999999px;
-    background: url('logo.png');
-    width: 100px;
-    height: 100px;
-}
 
 .footer{
   border-top: 3px solid black;
   background-color: transparent;
-}
-
-.pizza {
-    text-indent: -999999px;
-    background: url('pizza.jpg');
-    width: 640px;
-    height: 480px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.p {
-    text-indent: -999999px;
-    background: url('p.jpeg');
-    width: 960px;
-    height: 565px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.pm {
-    text-indent: -999999px;
-    background: url('pm.jpeg');
-    width: 480px;
-    height: 720px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.pz {
-    text-indent: -999999px;
-    background: url('pz.png');
-    width: 960px;
-    height: 640px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .table {
