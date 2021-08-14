@@ -1,3 +1,38 @@
+.logo {
+    text-indent: -999999px;
+    background: url('logo.png');
+    width: 100px;
+    height: 100px;
+}
+
+.pizza {
+    text-indent: -999999px;
+    background: url('pizza.jpg');
+    width: 640px;
+    height: 480px;
+}
+
+. p{
+    text-indent: -999999px;
+    background: url('p.jpeg');
+    width: 960px;
+    height: 565px;
+}
+
+.pm
+    text-indent: -999999px;
+    background: url('pm.jpeg');
+    width: 480px;
+    height: 720px;
+}
+
+.pz {
+    text-indent: -999999px;
+    background: url('pzpng');
+    width: 960x;
+    height: 640
+}
+
 
 .footer{
   border-top: 3px solid black;
